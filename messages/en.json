@@ -1,0 +1,21 @@
+{
+    "index": {
+        "name": "tenzies",
+        "end_game": "tenzi",
+        "begin": "begin",
+        "reset": "reset",
+        "time": "time",
+        "best_time": "best time",
+        "game": "game",
+        "toss": "roll dice",
+        "rolls": "rolls",
+        "cancel": "cancel",
+        "game_failed": "Sorry you lost",
+        "resume": "resume",
+        "sound": "sound",
+        "muted": "muted",
+        "pause": "pause",
+        "error_message": "Roll dice only if the selected  dice are the same.",
+        "objective": "The object of the game is to roll the dice as fast as possible and gets all dice on the same number in shortest time posible."
+    }
+}

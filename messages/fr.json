@@ -1,0 +1,21 @@
+{
+    "index": {
+        "name": "tenzies",
+        "end_game": "tenzi",
+        "begin": "commencer",
+        "reset": "réinitialiser",
+        "time": "temps",
+        "best_time": "meilleur temps",
+        "game": "jeu",
+        "toss": "lancer",
+        "rolls": "lancer",
+        "cancel": "annuler",
+        "pause": "pause",
+        "sound": "song",
+        "muted": "muted",
+        "resume": "reprendre",
+        "game_failed": "Désolé tu as perdu!.",
+        "error_message": "Lancez les dés uniquement si les dés sélectionnés sont les mêmes.",
+        "objective": "Le but du jeu est de lancer le dés le plus vite possible et obtient tous les dés sur le même numéro dans les plus brefs délais."
+    }
+}
